@@ -1,29 +1,37 @@
 # Hi, I'm Pranto Debnath 👋
 
+![Coding Animation](./banner.png)
+
 **Full-Stack Web Developer | React, Node.js & MongoDB**  
 I build **scalable and efficient web applications** with a focus on clean code and modern design.
 
 ---
 
 ### 🔭 Current Work
+
 - Developing **full-stack projects** and enhancing **UI/UX**.
 - Making my **personal Portfolio**
 - Contributing to **open-source projects**.
 
 ### 🌱 Currently Learning
+
 - Advanced **React patterns**, **Next.js**, and **TypeScript**.
 - Improving **performance optimization** and **best coding practices**.
 
 ### 👯 Collaboration
+
 - Open to **web development collaborations** and **innovative tech projects**.
 
 ### 💬 Ask Me About
+
 - JavaScript, React.js, Node.js, MongoDB, and **modern web development**.
 
 ### 📫 Connect With Me
+
 [LinkedIn](https://www.linkedin.com/in/pranto-deb1/) | [GitHub](https://github.com/Prizmine)
 
 ## Skills
+
 <div align="center" style="background:#0d1117; padding:25px; border-radius:12px;">
   <!-- HTML5, CSS3, JavaScript -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="60" height="60" style="margin:8px;" alt="HTML5"/>
@@ -47,7 +55,6 @@ I build **scalable and efficient web applications** with a focus on clean code a
 
   <!-- MongoDB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" style="margin:8px;" alt="MongoDB"/>
-  
 
 
   <!-- GitHub dark‑friendly (Octicons) -->
