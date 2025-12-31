@@ -15,7 +15,7 @@ I build **scalable and efficient web applications** with a focus on clean code a
 
 ### 🌱 Currently Learning
 
-- Advanced **React patterns**, **Next.js**, and **TypeScript**.
+- Advanced **React patterns**, **Next.js**, and **Wordpress**.
 - Improving **performance optimization** and **best coding practices**.
 
 
