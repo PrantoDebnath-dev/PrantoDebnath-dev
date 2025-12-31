@@ -18,17 +18,10 @@ I build **scalable and efficient web applications** with a focus on clean code a
 - Advanced **React patterns**, **Next.js**, and **TypeScript**.
 - Improving **performance optimization** and **best coding practices**.
 
-### 👯 Collaboration
-
-- Open to **web development collaborations** and **innovative tech projects**.
-
-### 💬 Ask Me About
-
-- JavaScript, React.js, Node.js, MongoDB, and **modern web development**.
 
 ### 📫 Connect With Me
 
-[LinkedIn](https://www.linkedin.com/in/pranto-deb1/) | [GitHub](https://github.com/Prizmine)
+[<img src="https://img.freepik.com/premium-vector/square-linkedin-logo-isolated-white-background_469489-892.jpg?semt=ais_hybrid&w=740&q=80" width="60" height="60" style="margin:8px;" alt="HTML5"/>](https://www.linkedin.com/in/pranto-deb1/)
 
 ## Skills
 
