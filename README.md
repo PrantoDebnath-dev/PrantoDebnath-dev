@@ -7,6 +7,12 @@ I build **scalable and efficient web applications** with a focus on clean code a
 
 ---
 
+### 👨‍💻 About Me
+
+I am passionate about **web development** and love turning ideas into interactive, user-friendly web applications. I enjoy learning new technologies and improving my skills continuously. When I'm not coding, I like to explore tech blogs, contribute to **open-source**, and experiment with new projects.
+
+---
+
 ### 🔭 Current Work
 
 - Developing **full-stack projects** and enhancing **UI/UX**.
@@ -17,7 +23,6 @@ I build **scalable and efficient web applications** with a focus on clean code a
 
 - Advanced **React patterns**, **Next.js**, and **Wordpress**.
 - Improving **performance optimization** and **best coding practices**.
-
 
 ### 📫 Connect With Me
 
@@ -40,7 +45,7 @@ I build **scalable and efficient web applications** with a focus on clean code a
   <!-- Tailwind CSS -->
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="60" height="60" style="margin:8px;" alt="Tailwind CSS"/>
 
-  <!-- Node.js dark logo you linked -->
+  <!-- Node.js dark logo -->
   <img src="https://images-cdn.openxcell.com/wp-content/uploads/2024/07/25090553/nodejs-inner.webp" width="60" height="60" style="margin:8px;" alt="Node.js"/>
 
   <!-- Express.js -->
@@ -48,9 +53,9 @@ I build **scalable and efficient web applications** with a focus on clean code a
 
   <!-- MongoDB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" style="margin:8px;" alt="MongoDB"/>
+  
   <!-- WordPress -->
-  <img src="https://static.vecteezy.com/system/resources/previews/020/336/199/non_2x/wordpress-logo-wordpress-icon-transparent-png-free-vector.jpg" width="60" height="60" style="margin:8px;" alt="MongoDB"/>
-
+  <img src="https://static.vecteezy.com/system/resources/previews/020/336/199/non_2x/wordpress-logo-wordpress-icon-transparent-png-free-vector.jpg" width="60" height="60" style="margin:8px;" alt="WordPress"/>
 
   <!-- GitHub dark‑friendly (Octicons) -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Github-desktop-logo-symbol.svg/2048px-Github-desktop-logo-symbol.svg.png" width="60" height="60" style="margin:8px; filter:invert(100%);" alt="GitHub"/>
