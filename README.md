@@ -58,6 +58,4 @@ I build **scalable and efficient web applications** with a focus on clean code a
   <!-- Git -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="60" height="60" style="margin:8px;" alt="Git"/>
 
-  <!-- Figma -->
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="60" height="60" style="margin:8px;" alt="Figma"/>
 </div>
