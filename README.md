@@ -48,6 +48,8 @@ I build **scalable and efficient web applications** with a focus on clean code a
 
   <!-- MongoDB -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="60" height="60" style="margin:8px;" alt="MongoDB"/>
+  <!-- WordPress -->
+  <img src="https://static.vecteezy.com/system/resources/previews/020/336/199/non_2x/wordpress-logo-wordpress-icon-transparent-png-free-vector.jpg" width="60" height="60" style="margin:8px;" alt="MongoDB"/>
 
 
   <!-- GitHub dark‑friendly (Octicons) -->
