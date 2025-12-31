@@ -2,7 +2,7 @@
 
 ![Coding Animation](./banner.png)
 
-**Full-Stack Web Developer | React, Node.js & MongoDB**  
+I am a **MERN-Stack Web Developer**  
 I build **scalable and efficient web applications** with a focus on clean code and modern design.
 
 ---
